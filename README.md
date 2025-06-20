@@ -15,7 +15,7 @@ REECURRENCY_API_KEY={enter your own key here}
 
 pip install -r requirements.txt
 
-4. now run ther program, follow the prompts and enjoy!
+4. now run the currency.py file, follow the prompts and enjoy!
 
 the currentley supported currencies are
     - USD
